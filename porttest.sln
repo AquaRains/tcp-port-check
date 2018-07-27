@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "porttest", "porttest.csproj", "{50332DAD-86BD-468F-97FD-62CA5FC7618C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50332DAD-86BD-468F-97FD-62CA5FC7618C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50332DAD-86BD-468F-97FD-62CA5FC7618C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50332DAD-86BD-468F-97FD-62CA5FC7618C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50332DAD-86BD-468F-97FD-62CA5FC7618C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C446DF9D-A53C-4CCB-8141-96BBCA7E4C30}
+	EndGlobalSection
+EndGlobal
