@@ -147,7 +147,7 @@ public class Porttest
             IAsyncResult ret = socket.BeginConnect(ip, port, null, null);
 
             //timeout뒤에 강제로 소켓을닫음.
-            result = (ret.AsyncWaitHandle.WaitOne(3000, true));
+            result = (ret.AsyncWaitHandle.WaitOne(2000, true));
             
         }
         catch { }
